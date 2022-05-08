@@ -1,0 +1,34 @@
+[
+   {
+      "username": "ankita",
+      "password": "Ankita@123",
+      "date_of_birth": 12345,
+      "hobby": "werty",
+      "gender": "f",
+      "description": "retyu"
+   },
+   {
+      "username": "Rhutuja",
+      "password": "Rhutuja@123",
+      "date_of_birth": "456789",
+      "hobby": "tyuio",
+      "gender": "f",
+      "description": "rtyui"
+   },
+   {
+      "username": "Veda",
+      "password": "Veda@123",
+      "date_of_birth": "456789",
+      "hobby": "rtyui",
+      "gender": "rtyuio",
+      "description": "tyuio"
+   },
+   {
+      "username": "sonu",
+      "password": "Sonu@123",
+      "date_of_birth": "54678",
+      "hobby": "rtyui",
+      "gender": "rtyuio",
+      "description": "rtyuio"
+   }
+]
